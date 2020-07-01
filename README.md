@@ -1,6 +1,6 @@
 # Dempster-Shafer Visualization
 
-Just a simple visualization of the dempsey-shafer combinator.
+Just a simple visualization of the dempster-shafer combinator.
 
 
 
